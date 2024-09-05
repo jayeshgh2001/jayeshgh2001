@@ -1,7 +1,7 @@
 <img src="https://t3.ftcdn.net/jpg/09/52/39/22/240_F_952392285_0JS0geGrjjki9EsnzeJjUKkpeY6wk2AG.jpg" alt="MasterHead" style="width: 100%;">
 <h1 align="center">Hi 👋, I'm Jayesh Gharat</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="450" height= '350' object-fit ='cover' src="https://imgs.search.brave.com/wBg-3FaYOG-pygJklYqEQqH50he1mjCS8-NoElpTvI8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by8z/ZC1yZW5kZXJpbmct/a2lkLXBsYXlpbmct/ZGlnaXRhbC1nYW1l/XzIzLTIxNTA4OTg0/OTYuanBnP3NpemU9/NjI2JmV4dD1qcGc">
+<img align="right" alt="Coding" width="400" height= '300' object-fit ='cover' src="https://imgs.search.brave.com/wBg-3FaYOG-pygJklYqEQqH50he1mjCS8-NoElpTvI8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by8z/ZC1yZW5kZXJpbmct/a2lkLXBsYXlpbmct/ZGlnaXRhbC1nYW1l/XzIzLTIxNTA4OTg0/OTYuanBnP3NpemU9/NjI2JmV4dD1qcGc">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshgh2001&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshgh2001" /> </p>
 
